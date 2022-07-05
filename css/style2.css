@@ -16,6 +16,8 @@
 
 body {
     background-color: #2D2D2D;
+    background-image: url("../img/kali-linux.png");
+    background-size: cover;
 }
 
 h1 {
@@ -45,7 +47,7 @@ footer {
     color: #fff;
   }
 
-nav {
+  nav {
     width: 100%;
     min-height: 6vh;
     padding: 1rem;
@@ -54,17 +56,17 @@ nav {
     align-items: center;
     background-color: #8338EC;
   }
-nav i {
+  nav i {
     font-size: 1.5em;
   }
   
-.logo {
+  .logo {
     font-size: 1.5em;
     color: #ffffff;
     text-decoration: none;
   }
   
-.nav-links {
+  .nav-links {
     width: 25%;
     display: flex;
     justify-content: space-around;
@@ -72,12 +74,13 @@ nav i {
     list-style: none;
   }
   
-.nav-link {
+  .nav-link {
     color: rgb(255, 255, 255);
     text-decoration: none;
     transition: 0.25s;
   }
   
-.nav-link:hover {
+  .nav-link:hover {
     color: #97DFFC;
   }
+  
