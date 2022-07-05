@@ -36,6 +36,10 @@ p {
     font-style:normal;
 }
 
+img {
+  height: auto;
+}
+
 footer {
     padding: 1rem;
     position: fixed;
