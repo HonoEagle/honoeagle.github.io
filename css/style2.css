@@ -17,6 +17,7 @@
 body {
     background-color: #2D2D2D;
     background-image: url("../img/kali-linux.png");
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
