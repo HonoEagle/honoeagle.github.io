@@ -32,6 +32,10 @@ h1{
 h2{
   color: #3A86FF;
   font-size: 20px;
+  width: auto;
+  padding-top: 4px;
+  padding-bottom: 30px;
+  padding-left: 35px;
   font-family: 'CustomFont', Arial, sans-serif, fixed-width;
   font-weight:normal;
   font-style:normal;
@@ -45,9 +49,23 @@ p {
     font-weight:normal;
     font-style:normal;
 }
+
+.p1 {
+  width: auto;
+  padding-top: 4px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  color: white;
+  font-family: 'CustomFont', Arial, sans-serif, fixed-width;
+  font-weight:normal;
+  font-style:normal;
+}
+
 .p2 {
   width: auto;
-  padding: 40px;
+  padding-top: 4px;
+  padding-bottom: 30px;
+  padding-left: 30px;
   color: white;
   font-family: 'CustomFont', Arial, sans-serif, fixed-width;
   font-weight:normal;
