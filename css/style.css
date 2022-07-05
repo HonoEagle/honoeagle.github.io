@@ -27,22 +27,23 @@ h1 {
 }
 
 p {
+    width: auto;
+    padding: 40px;
     color: white;
     font-family: 'CustomFont', Arial, sans-serif, fixed-width;
     font-weight:normal;
     font-style:normal;
 }
 
-footer {
-    padding: 1rem;
+.footer {
+    width: 100%;
+    height: 10px;
     position: fixed;
     bottom: 0;
-    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #8338EC;
-    color: #fff;
   }
 
 nav {
