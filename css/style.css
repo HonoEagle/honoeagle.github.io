@@ -9,7 +9,9 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "custom_font";
+    font-family: 'CustomFont', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
   }
 
 body {
@@ -19,10 +21,14 @@ body {
 h1 {
     color: #C26356;
     font-size: 30px;
-    font-family: Menlo, Monaco, fixed-width;
+    font-family: 'CustomFont', Arial, sans-serif, fixed-width;
+    font-weight:normal;
+    font-style:normal;
 }
 
 p {
     color: white;
-    font-family: "Source Code Pro", Menlo, Monaco, fixed-width;
+    font-family: 'CustomFont', Arial, sans-serif, fixed-width;
+    font-weight:normal;
+    font-style:normal;
 }
