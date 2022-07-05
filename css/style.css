@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "custom_font";
+    src: url("../font/custom_font.ttf");
+  }
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "custom_font";
+  }
+
+body {
+    background-color: #2D2D2D;
+}
+
+h1 {
+    color: #C26356;
+    font-size: 30px;
+    font-family: Menlo, Monaco, fixed-width;
+}
+
+p {
+    color: white;
+    font-family: "Source Code Pro", Menlo, Monaco, fixed-width;
+}
