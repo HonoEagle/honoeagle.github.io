@@ -26,6 +26,18 @@ h1 {
     font-style:normal;
 }
 
+h2{
+  color: #3A86FF;
+  font-size: 20px;
+  width: auto;
+  padding-top: 4px;
+  padding-bottom: 10px;
+  padding-left: 35px;
+  font-family: 'CustomFont', Arial, sans-serif, fixed-width;
+  font-weight:normal;
+  font-style:normal;
+}
+
 p {
     width: auto;
     padding: 40px;
