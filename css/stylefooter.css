@@ -1,0 +1,24 @@
+.nfooter {
+    width: 100%;
+    height: 10px;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8338EC;
+  }
+.pfooter {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'CustomFont', Arial, sans-serif, fixed-width;
+    font-weight:normal;
+    font-style:normal;
+}
+
+.afooter:hover {
+  color: #97DFFC;
+}
