@@ -60,6 +60,7 @@ p {
   font-family: 'CustomFont', Arial, sans-serif, fixed-width;
   font-weight:normal;
   font-style:normal;
+  color: #2D2D2D
 }
 
 .p2 {
@@ -109,4 +110,14 @@ nav i {
   
 .nav-link:hover {
     color: #97DFFC;
+  }
+
+.nav-linkcacher {
+    color: #2D2D2D;
+    text-decoration: none;
+    transition: 0.25s;
+  }
+  
+.nav-linkcacher:hover {
+    color: #9b3131;
   }
