@@ -116,3 +116,14 @@ nav i {
 .nav-link:hover {
     color: #97DFFC;
   }
+
+.boutonretour {
+  display: block;
+  margin: auto;
+  color: #ffffff;
+  align-items: center;
+}
+
+.boutonretour:hover {
+  color: aqua;
+}
