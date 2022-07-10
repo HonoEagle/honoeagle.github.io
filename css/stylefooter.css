@@ -23,15 +23,3 @@
   color: #97DFFC;
 }
 
-
-.letopmainteemo {
-  width: 100%;
-  height: 10px;
-  position: fixed;
-  bottom: 0;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: #8338EC;
-}
-

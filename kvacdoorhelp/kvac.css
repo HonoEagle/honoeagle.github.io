@@ -27,7 +27,7 @@ nav {
     background-color: #8338EC;
   }
 
-  h1{
+h1{
     color: #3A86FF;
     font-size: 30px;
     font-family: 'CustomFont', Arial, sans-serif, fixed-width;
@@ -118,12 +118,21 @@ nav i {
   }
 
 .boutonretour {
-  display: block;
-  margin: auto;
   color: #ffffff;
-  align-items: center;
+  padding-top: 4px;
+  padding-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'CustomFont', Arial, sans-serif, fixed-width;
+  font-weight:normal;
+  font-style:normal;
 }
 
 .boutonretour:hover {
   color: aqua;
+}
+
+.tableprix {
+  margin-left: auto;
+  margin-right: auto;
 }
