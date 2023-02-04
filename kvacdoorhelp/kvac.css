@@ -117,6 +117,14 @@ nav i {
     color: #97DFFC;
   }
 
+.tableprix {
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
 .boutonretour {
   color: #ffffff;
   padding-top: 4px;
@@ -132,10 +140,3 @@ nav i {
   color: aqua;
 }
 
-.tableprix {
-  text-align: center;
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
