@@ -8,7 +8,7 @@
 
 This is my github.io page
 
-You can see it on uknownothing.servehttp.com or https://honoeagle.github.io/
+You can see it on https://uknownothing.servehttp.com or https://honoeagle.github.io/
 
 ## Contributors
 
